@@ -7,6 +7,9 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
+//=============================================================================
+// class EntryPoint
+//=============================================================================
 
 public class EntryPoint extends Application {
 

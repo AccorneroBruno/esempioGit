@@ -38,11 +38,7 @@ public class EntryPoint extends Application {
      *
      * @param args the command line arguments
      */
-    
-	//-------------------------------------------------------------------------
-	// main
-	//-------------------------------------------------------------------------
-
+ 
     public static void main(String[] args) {
         launch(args);
     }

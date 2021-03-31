@@ -13,6 +13,11 @@ import javafx.stage.Stage;
 
 public class EntryPoint extends Application {
 
+
+	//-------------------------------------------------------------------------
+	// start
+	//-------------------------------------------------------------------------
+
     @Override
     public void start(Stage stage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("/fxml/Scene.fxml"));
@@ -33,6 +38,11 @@ public class EntryPoint extends Application {
      *
      * @param args the command line arguments
      */
+    
+	//-------------------------------------------------------------------------
+	// main
+	//-------------------------------------------------------------------------
+
     public static void main(String[] args) {
         launch(args);
     }
